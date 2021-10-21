@@ -1,37 +1,105 @@
-## Welcome to GitHub Pages
+> 出门约会
 
-You can use the [editor on GitHub](https://github.com/muziyang1992/qinghua/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+男：把手给我
+女：为什么给你
+男：出门要手拉手，知道吗。小时候老师说过的，贵重物品要随身携带
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/muziyang1992/qinghua/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```
+是福不是祸，是我老婆你躲不过。
+```
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+```
+男：我想和你合拍一张
+女：做什么呀
+男：我要发朋友圈啊，证明天使是存在的
+```
+
+
+
+```
+女：你盯着我做什么？
+男：我看你是想在你这里多收集一些做梦的素材
+```
+
+
+
+```
+女：你是不是对所有人都那么好
+男：你看一下我，我长的像雷锋吗？
+```
+
+
+
+```
+女：我都晒黑了
+男：黑点儿不好吗，证明你不是一个肤浅的人
+```
+
+
+
+```
+男：你能告诉我，你单身多久了吗？
+女：嗯，一年多了
+男：对不起啊，我来晚了，让你久等了
+```
+
+
+
+```
+女：你一天天都想啥呢？
+男：我想拉着你的手，敬各位来宾的酒
+```
+
+
+
+```
+女：你是什么星座的？
+男：我是为你量身订做的。
+```
+
+
+
+```
+女：你说实话，你之前谈过几个恋爱
+男：你别管我谈过几个，只要你愿意做我的初恋，前面的几个都算是在为你排练
+```
+
+
+
+```
+我是这世界上眼光最好的人，因为我看上了你啊
+```
+
+
+
+```
+女：我不吃，我减肥呢
+男：你懂重要是什么意思吗
+女：什么意思啊？
+男：重要的意思是，你再重，我都要，知道吗
+```
+
+
+
+```
+30多度的嘴唇竟能说出如此冷漠的话
+
+确认过眼神，你就是我的人。
+```
+
+搞笑段子
+
+```
+男：你未来的老公呢，会有两个特点
+女：哪两个
+男：第一，记忆非常的差
+女：第二呢
+男：第二是......我忘了
+```
+
